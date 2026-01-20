@@ -86,18 +86,4 @@ Demonstrates real cloud engineering skills:
 ✔ RDS integration  
 ✔ Enterprise-level architecture  
 
----
-
-## 📁 Suggested Repository Name
-
-
-**aws-scalable-todo-app**
-
----
-
-## 📝 Author
-
-Your Name  
-AWS | DevOps | Cloud Engineer
-
-
+ 
